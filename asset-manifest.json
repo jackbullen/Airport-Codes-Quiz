@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Airport-Codes-Quiz/static/css/main.5cd4beb6.css",
+    "main.js": "/Airport-Codes-Quiz/static/js/main.fcfb50b5.js",
+    "static/js/787.4852f7d1.chunk.js": "/Airport-Codes-Quiz/static/js/787.4852f7d1.chunk.js",
+    "index.html": "/Airport-Codes-Quiz/index.html",
+    "main.5cd4beb6.css.map": "/Airport-Codes-Quiz/static/css/main.5cd4beb6.css.map",
+    "main.fcfb50b5.js.map": "/Airport-Codes-Quiz/static/js/main.fcfb50b5.js.map",
+    "787.4852f7d1.chunk.js.map": "/Airport-Codes-Quiz/static/js/787.4852f7d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd4beb6.css",
+    "static/js/main.fcfb50b5.js"
+  ]
+}
